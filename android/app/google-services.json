@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "775401130552",
+    "project_id": "gamer-galaxy-d6e09",
+    "storage_bucket": "gamer-galaxy-d6e09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775401130552:android:012b3cda287394cc6bb4cd",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_902"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775401130552-4oqa0knu38l35cu3e9jgle6nalkhkksj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAreR-TGmfmYN7kqasM_kkmxdDNgPUbj2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775401130552-4oqa0knu38l35cu3e9jgle6nalkhkksj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
